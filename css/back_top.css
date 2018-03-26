@@ -1,0 +1,16 @@
+/* CSS Document */
+.back_box {
+	width: 43px;
+	height: 43px;
+	position: fixed;
+	border: 1px solid #ddd;
+	left: 50%;
+	margin-left: 615px;
+	bottom: 10px;
+	background: url(../img/tuan_tag.png) -24px -7px scroll no-repeat;
+	display: none;
+	cursor: pointer;
+}
+.back_hover {
+	background: url(../img/tuan_tag.png) -104px -7px scroll no-repeat;
+}
