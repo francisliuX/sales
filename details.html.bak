@@ -7,7 +7,7 @@
     <link type="text/css" rel="stylesheet" href="css/details.css">
     <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
     <script type="text/javascript" src="js/retard.js"></script>
-    <script type="text/javascript" src="js/imgLoad.js"></script>
+    <script type="text/javascript" src="js/image.js"></script>
     <script type="text/javascript" src="js/detailstop.js"></script>
     <script type="text/javascript">
 $(document).ready(
@@ -149,7 +149,7 @@ $(document).ready(
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/n.jpeg" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
@@ -176,19 +176,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12304734/prod/81831.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12304734/prod/81831.123" target="_blank"><img src="http://image.qd123.com/prod_img/61/1332/20161008142926_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12304734_180205140418.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -210,19 +210,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12300644/prod/156.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12300644/prod/156.123" target="_blank"><img src="http://image.qd123.com/prod_img/46/567/20150803195355_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12300644_170914133620.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -244,19 +244,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12300797/prod/22950.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12300797/prod/22950.123" target="_blank"><img src="http://image.qd123.com/prod_img/43/1182/20150807093808_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12300797_160606135510.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -278,19 +278,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12306336/prod/106886.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12306336/prod/106886.123" target="_blank"><img src="http://image.qd123.com/prod_img/61/1475/20150809171953_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12306336_180313110116.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -312,19 +312,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12300644/prod/28233.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12300644/prod/28233.123" target="_blank"><img src="http://image.qd123.com/prod_img/46/560/20150803202624_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12300644_170914133620.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -346,19 +346,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12300759/prod/60200.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12300759/prod/60200.123" target="_blank"><img src="http://image.qd123.com/prod_img/38/590/20160815115222_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12300759_180225111302.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -380,19 +380,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12300726/prod/8366.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12300726/prod/8366.123" target="_blank"><img src="http://image.qd123.com/prod_img/14/203/20170610162633_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12300726_170318142917.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -414,19 +414,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12304054/prod/74667.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12304054/prod/74667.123" target="_blank"><img src="http://image.qd123.com/prod_img/14/2828/20160829110617_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12304054_180303181717.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -455,7 +455,7 @@ $(document).ready(
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
@@ -482,19 +482,19 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12301806/prod/38855.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12301806/prod/38855.123" target="_blank"><img src="http://image.qd123.com/prod_img/48/561/20150803193815_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
             </div>
             <div class="zeng_area">
             	              <div class="zpro_li">
-                <div class="zeng_tag"><img src="img/n.png" onload="DrawImage(this,60,60)"></div>
+                <div class="zeng_tag"><img src="img/sales_tag_icon.png" onload="DrawImage(this,60,60)"></div>
                 <div class="zpro_img">
                   <table width="120" height="100" cellpadding="0" cellspacing="0" border="0">
                     <tbody>
                       <tr>
-                        <td align="center" valign="middle"><img src="img/2.jpeg" onload="DrawImage(this,110,90)"></td>
+                        <td align="center" valign="middle"><img src="http://image.qd123.com/123_img/promo/12301806_160413172625.jpeg" onload="DrawImage(this,110,90)"></td>
                       </tr>
                     </tbody>
                   </table>
@@ -584,7 +584,7 @@ $(document).ready(
               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody>
                   <tr>
-                    <td align="center" valign="middle"><a href="/sj/12300735/prod/47495.123" target="_blank"><img src="img/1.jpeg" onload="DrawImage(this,150,150)"></a></td>
+                    <td align="center" valign="middle"><a href="/sj/12300735/prod/47495.123" target="_blank"><img src="http://image.qd123.com/prod_img/64/3685/20160427155232_1.jpeg" onload="DrawImage(this,150,150)"></a></td>
                   </tr>
                 </tbody>
               </table>
